@@ -22,9 +22,13 @@ A more advanced version of this is calling the specific language. For exmaple.
 }
  ```
 
+If you want more formatting details, check [THIS LINK] (https://www.makeareadme.com/) out!
+
 ## What you should use this Read Me for?
 Read mes are to help give external partners who look at your code a better idea of all the working parts of your code. Projects grow in size, and tons of files are created. You'll need to take some time and write up what each section is.
 
-You can take a look at [THIS LINK](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) to get a little more detail.
+You can take a look at [THIS LINK](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) to get a little more detail. 
 
 If you want to see a good example of a Read Me file, check out [Boostrap's Repository](https://github.com/twbs/bootstrap). It does a good job laying out how to get started with Boostrap, as its a visual library for web developers.
+
+
