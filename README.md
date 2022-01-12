@@ -24,7 +24,7 @@ You can also do a numbered list
 3. Item 3
 
 ### Code Style
-If you need to write out code, use `<h1>The carrot</h1>`
+If you need to write out code, use `<h1>The carrot</h1>` like "``"
 
 A more advanced version of this is calling the specific language. For exmaple.
  ``` CSS
@@ -32,6 +32,8 @@ A more advanced version of this is calling the specific language. For exmaple.
   color: red;
 }
  ```
+ 
+ Do 3 carrots, and then close with 3 carrots.
 
 If you want more formatting details, check [THIS LINK] (https://www.makeareadme.com/) out!
 
