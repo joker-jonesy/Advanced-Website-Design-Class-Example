@@ -12,6 +12,17 @@ You'll definately need to link to different pages or branches in your document. 
 Open [My personal website](https://www.lukejonesblog.com/#/)
 Start your link with square brackets [] then followed directly by paratheses ()
 
+### List
+Using a * will allow you to list
+* Item 1
+* Item 2
+* Item 3
+
+You can also do a numbered list
+1. Item 1
+2. Item 2
+3. Item 3
+
 ### Code Style
 If you need to write out code, use `<h1>The carrot</h1>`
 
