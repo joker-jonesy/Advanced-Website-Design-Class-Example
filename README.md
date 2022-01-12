@@ -12,7 +12,7 @@ You'll definately need to link to different pages or branches in your document. 
 Open [My personal website](https://www.lukejonesblog.com/#/)
 Start your link with square brackets [] then followed directly by paratheses ()
 
-[![Slack]()](https://bootstrap-slack.herokuapp.com/)
+[![Slack](https://cdnb.artstation.com/p/assets/images/images/019/015/469/large/hai-yun-wong-il-794xn-1234221697-msgm.jpg?1561638797)](https://bootstrap-slack.herokuapp.com/)
 
 ### List
 Using a * will allow you to list
