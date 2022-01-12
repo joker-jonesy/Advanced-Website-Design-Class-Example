@@ -24,9 +24,9 @@ You can also do a numbered list
 3. Item 3
 
 ### Code Style
-If you need to write out code, use `<h1>The carrot</h1>` like "``"
+If you need to write out code, use `<h1>The carrot</h1>`. Do this by carrot, enter the text, then a closing carrot.
 
-A more advanced version of this is calling the specific language. For exmaple.
+A more advanced version of this is calling the specific language. For example.
  ``` CSS
  .someClass {
   color: red;
